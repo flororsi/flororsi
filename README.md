@@ -5,6 +5,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/florcapmourteres/" target="blank"><img align="center" src="	https://github.com/linkedin.png?s=20
-" alt="flororsi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/florcapmourteres/" target="blank"><img align="center" src="https://github.com/linkedin.png" alt="LinkedIn" height="30" width="40" /></a>
 </p>
